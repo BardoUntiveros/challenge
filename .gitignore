@@ -36,3 +36,7 @@ vendor
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+# Node
+# -----------------------------------
+./dist
